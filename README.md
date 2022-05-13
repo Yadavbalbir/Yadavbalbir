@@ -13,7 +13,7 @@ More about me
 - 👯 I’m looking to collaborate on exciting Projects
 - 🤔 I’m looking for help with working in real world projects
 - 💬 Ask me about DSA and Data Science
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/apurva866" rel="nofollow">Linkedin</a></li>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/yadavbalbir/" rel="nofollow">Linkedin</a></li>
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: 😎
 
