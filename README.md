@@ -3,6 +3,17 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Yadavbalbir)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yadavbalbir)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadavbalbir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Yadavbalbir&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Yadavbalbir&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yadavbalbir&show_icons=true" />
+</picture>
 
 ### Welcome
 Hi, I'm Balbir Yadav. I'm pursuing B.Tech from IIT Bombay. I'm a passionate full stack developer. 2+ years of experience in Django and Django rest framework. I'm also pursuing minor in Data Science offered by CMiNDS, IIT Bombay. I have experience in building and deploying full-stack and Machine learning projects. 
