@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### ![](https://komarev.com/ghpvc/?username=yadavbalbir&color=green)
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yadavbalbir)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Yadavbalbir)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yadavbalbir)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yadavbalbir)](https://git.io/streak-stats)
+
 
 
 ### Welcome
