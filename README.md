@@ -1,8 +1,6 @@
 
 #### ![](https://komarev.com/ghpvc/?username=yadavbalbir&color=green)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yadavbalbir&show_icons=true&theme=radical)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yadavbalbir&show_icons=true&theme=radical)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadavbalbir&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yadavbalbir&repo=leetcode_submission)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### Welcome
 Hi, I'm Balbir Yadav. I'm pursuing B.Tech from IIT Bombay. I'm a passionate full stack developer. 2+ years of experience in Django and Django rest framework. I'm also pursuing minor in Data Science offered by CMiNDS, IIT Bombay. I have experience in building and deploying full-stack and Machine learning projects. 
