@@ -6,7 +6,7 @@
 Hi, I'm Balbir Yadav. I'm pursuing B.Tech from IIT Bombay. I'm a passionate full stack developer. 2+ years of experience in Django and Django rest framework. I'm also pursuing minor in Data Science offered by CMiNDS, IIT Bombay. I have experience in building and deploying full-stack and Machine learning projects. 
 
 I have done some competitive programming but instead I prefer doing projects and learning new technologies or gaining more experience in what I already know.
-Companies I have been associated as an intern or in other roles are Microsoft, eRentals, Bank of Baroda and Unacademy.
+Companies I have been associated as an intern or in other roles are Microsoft, eRentals, Bank of Baroda, MapIT.ai and Unacademy.
 
 
 
