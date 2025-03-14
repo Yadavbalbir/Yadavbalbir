@@ -1,7 +1,5 @@
 
 #### ![](https://komarev.com/ghpvc/?username=yadavbalbir&color=green)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yadavbalbir&show_icons=true&theme=radical)](https://git.io/streak-stats)
-
 ### Welcome
 
 
